@@ -3,5 +3,5 @@
   "min_version": "2.0.0",
   "force_update": true,
   "apk_url": "https://github.com/bazargsb/my-app-updates/releases/download/v2.0.0/app-release.apk",
-  "release_notes": "تحديثات وتحسينات جديدة"
+  "release_notes": "add kosten vorschlag in invoics "
 }
